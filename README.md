@@ -1,4 +1,4 @@
-# FindigsQAExercise
+# QAExercise
 
 ## Recommended IDE Setup and package manager
 
